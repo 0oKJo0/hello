@@ -1,2 +1,3 @@
 # hello
 test
+echo “hello”
